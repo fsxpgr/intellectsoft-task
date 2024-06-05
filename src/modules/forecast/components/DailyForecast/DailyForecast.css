@@ -1,0 +1,7 @@
+.weather-card-container {
+  display: flex;
+  flex-direction: row;
+  @media (max-width:900px)  {flex-direction: column; }
+}
+
+

@@ -1,0 +1,11 @@
+.weather-pic{
+    width: 100px;
+    height: 100px;
+}
+
+.card-wrapper{
+    margin: 4px;
+    width: 220px;
+    @media (max-width:900px)  { width: 70vw; }
+
+}
